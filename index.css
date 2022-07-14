@@ -1,0 +1,15 @@
+.career {
+  font-family: "Times New Roman", Times, serif, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.computer {
+  text-align: center;
+}
+
+.git {
+  padding-left: 15px;
+}
